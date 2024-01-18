@@ -1,0 +1,126 @@
+digraph graphname {
+hm [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qc [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dh [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+ph [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+ps [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qb [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+jl [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+fh [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+zz [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+rm [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+nd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+nx [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qf [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+np [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dm [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+sq [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+bv [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+br [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+mg [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dt [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+ks [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+xr [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+vr [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+lc [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+tq [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+cr [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+vd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+tb [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dz [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+gr [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+nf [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dv [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qj [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+kc [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+gf [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+vh [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+sr [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+fp [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+kj [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+pc [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+kq [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+xd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+tg [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+bb [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+rn [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+hd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+qg [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+dp [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+qn [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+kt [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+sv [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+vt [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+fd [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+xm [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#00ff00"];
+xg [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"];
+mx [style="rounded,filled,bold", shape=box, fixedsize=true, width=1.3,fillcolor="#ff0000"]; 
+
+
+
+
+
+
+
+
+hm -> cr
+qc -> nd
+dh -> rm
+ph -> zz
+ps -> kc, dt
+qb -> dt
+jl -> vt, tb
+fh -> dm, gr
+broadcaster -> np, mg, vd, xr
+zz -> sq
+rm -> rx
+nd -> br
+nx -> vr, vt
+qf -> dt, dv
+np -> xm, ph
+dm -> nf, gr
+sq -> kj
+bv -> fp, xm
+br -> kt
+mg -> dz, gr
+dt -> vd, dv, dh, hm, ks, hd, kq
+ks -> qf
+qd -> rm
+xr -> vt, rn
+vr -> tg, vt
+lc -> xm
+tq -> gr, fh
+cr -> kq, dt
+vd -> dt, ks
+tb -> nx
+dz -> gr, fd
+gr -> dp, mg, fd, qn
+nf -> gr
+dv -> hm
+qj -> lc, xm
+kc -> dt, gf
+gf -> dt, qb
+vh -> xm, sv
+sr -> vt
+fp -> qg, xm
+kj -> vh
+pc -> tq, gr
+kq -> hd
+xd -> xg, gr
+tg -> sr, vt
+bb -> rm
+rn -> vt, qc
+hd -> ps
+qg -> xm, qj
+dp -> rm
+qn -> pc
+kt -> jl
+sv -> bv
+vt -> bb, nd, qc, xr, br, tb, kt
+fd -> mx
+xm -> zz, sv, sq, ph, kj, np, qd
+xg -> gr, qn
+mx -> gr, xd
+}
+
