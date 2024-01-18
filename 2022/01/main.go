@@ -14,7 +14,7 @@ type elf struct {
 }
 
 func main() {
-	f, err := os.Open("./01/input.txt")
+	f, err := os.Open("./2022/01/input.txt")
 
 	if err != nil {
 		log.Fatal(err)
